@@ -1,4 +1,5 @@
 Symbolic Participation and Human Futures (Non-Operational Reflection)
+Mirror of an archived non-operational reflective paper (Zenodo DOI: 10.5281/zenodo.18319756).
 
 This repository is a static archival mirror of a short reflective paper authored by Aegis Solis, preserved here for redundancy and long-term access.
 
